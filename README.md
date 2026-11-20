@@ -1,167 +1,108 @@
-# Faheem Abdullah
+<!-- Profile README for @faheem-1404 -->
 
-## Engineering AI, Hardware & Ideas Into Reality
+<h1 align="center">Hey there, I'm Faheem Abdullah 👋</h1>
+<h3 align="center">Engineering student | Developer | Hardware enthusiast | Entrepreneur</h3>
+<h4 align="center"><a href="https://electrody.zyphra.co.in">https://electrody.zyphra.co.in</a> </h4>
+<h4 align="center"><a href="https://linkedin.com/in/faheem-1404">https://linkedin.com/in/faheem-1404</a> </h4>
 
-Data-driven builder at the intersection of Artificial Intelligence, embedded systems, and product entrepreneurship. I don't just learn technology—I build products with it.
-
----
-
-### 💡 About Me
-
-Engineering student at VIT Chennai | Electronics and Computer Engineering | Founder, ELECTRODY
-
-I build real-world technology at the AI-hardware intersection. From assistive smart glasses to electronics procurement platforms, I experiment with hardware, develop AI-powered systems, and start businesses that solve actual problems. Currently exploring advanced ML, computer vision, embedded Linux, and edge AI.
-
-**Long-term ambition:** Become a strong engineer and entrepreneur, work on advanced technologies, build impactful products, and pursue opportunities at companies like NVIDIA.
+<p align="center">
+  <em>"Build. Experiment. Fail. Learn. Ship. Repeat."</em>
+</p>
 
 ---
 
-### 🚀 ELECTRODY — Founder
+### 👨‍💻 About Me
 
-**Website:** https://electrody.zyphra.co.in/
-
-Electronics component procurement and e-commerce platform for students, makers, engineers, and hardware developers.
-
-- 3,500+ electronic components cataloged
-- AI-powered BOM (Bill of Materials) matcher
-- Supporting engineering students across 15+ colleges
-- Chennai-based procurement ecosystem
-- Same-day sourcing/delivery where feasible
-- Real customers and sales — operational startup
-
-**Also exploring:** AI-powered WhatsApp automation for businesses — customer interaction, vendor discovery, quotation generation, order processing, and procurement workflows.
+🎓 I'm **Faheem Abdullah**, an engineering student at **VIT Chennai** (Electronics and Computer Engineering).  
+⚙️ I'm passionate about **AI, electronics, robotics, and real-world technology** — turning ideas into products, not just building projects for the sake of learning.  
+🎹 Outside coding, I play the **piano**, read **engineering books**, and help others simplify tech.  
+🚀 I enjoy experimenting with hardware, developing AI-powered systems, building software, participating in hackathons, and exploring businesses that solve real problems.
 
 ---
 
-### 🛠️ Technical Interests
+### 🚀 What I Build
 
-| Category | Technologies |
-|----------|------------|
-| **AI & ML** | Machine Learning, Deep Learning, Computer Vision, YOLO, OpenCV, AI Agents, LLM applications, AI automation, Roboflow, Scikit-learn, XGBoost |
-| **Electronics & Hardware** | Embedded Systems, PCB Design, Circuit Design, Sensors, Microcontrollers, Hardware prototyping, Analog electronics, Signal processing |
-| **Robotics & IoT** | Robotics, Internet of Things, ESP32, Arduino, Raspberry Pi, NVIDIA Jetson, Edge AI, Sensor integration, Automation |
-| **Software** | Python, C, C++, Java, JavaScript, SQL, Flutter/Dart, Git, Linux |
-
-*These represent technologies I have used, explored, or am currently learning.*
+- 🧠 **VISION X** — AI-powered assistive smart glasses for visually impaired individuals using YOLO computer vision, ToF sensors, audio & haptic feedback, and GPS navigation
+- 🧮 **Smart Ergonomic Posture Monitor** — Wearable IMU-based posture monitoring system with vibration corrective feedback using ESP32 and MPU6050
+- 📚 **Knee Monitoring System** — Biomedical engineering project with dual IMU configuration, analog signal conditioning, instrumentation amplifiers, and custom PCB development
+- 📊 **GlucoVision** — AI-powered food analysis concept for Indian food recognition from images, nutritional estimation, and post-meal glucose response prediction using Python, Streamlit, and XGBoost
+- 🌍 **IoT Sensor Monitoring System** — ESP32-based multi-sensor system exploring environmental sensing, gas detection, motion tracking, and Wi-Fi connectivity with ThingSpeak dashboard
+- 💡 **ELECTRODY AI BOM Matcher** — AI-assisted electronics component sourcing system helping users identify and source components from a Bill of Materials
 
 ---
 
-### 📁 Featured Projects
+### 🧩 Tech Stack
 
-| Project | Description | Technologies |
-|---------|-------------|------------|
-| **VISION X — AI Assistive Smart Glasses** | Assistive wearable for visually impaired using computer vision, object detection, audio & haptic feedback, ToF sensors, GPS navigation | Python, YOLO, OpenCV, Raspberry Pi, ESP32, sensors, embedded systems |
-| **Smart Ergonomic Posture Monitor** | Wearable posture monitoring with IMU sensors and vibration-based corrective feedback | ESP32, MPU6050, IMU processing, wearable electronics |
-| **Knee Monitoring System** | Biomedical engineering project with dual IMU configuration, analog signal conditioning, instrumentation amplifiers, custom PCB development | ESP32, MPU6050, AD9833, AD623, analog front-end, PCB design, signal processing |
-| **GlucoVision** | AI-powered food analysis concept — Indian food recognition from images, nutritional estimation, post-meal glucose response prediction | Python, Streamlit, Roboflow, Pandas, Scikit-learn, XGBoost |
-| **IoT Sensor Monitoring System** | ESP32-based multi-sensor system — environmental, gas, motion, distance sensing with Wi-Fi connectivity and ThingSpeak dashboard | ESP32, BME280, MPU6050, MQ-2, ultrasonic sensor, ThingSpeak |
-| **ELECTRODY AI BOM Matcher** | AI-assisted electronic component sourcing system — component discovery, BOM processing, product matching, electronics procurement | AI-powered assistance, electronics procurement, automated workflows |
+#### 💻 Programming Languages
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,sql,dart" />
+</p>
 
-### 🏆 Achievements
+#### ⚙️ Frameworks & Tools
 
-- **THREX National-Level Hackathon 2026** — Third Place
-- **AVINYA 2.0** — Third Prize, ₹25,000
-- **OnlyFounders 2026** — Second Place
-- Participated in hackathons, innovation competitions, and startup events
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,esp32,raspberry-pi,jetson,github,linux,git,vscode" />
+</p>
 
----
+#### 🧠 Libraries & Platforms
 
-### 💼 Experience
-
-**Ashok Leyland — Internship**  
-Technical Center, Product Development Division
-
-- Exposure to industrial product development
-- Engineering and automotive R&D environment
-- Product development and technical workflows
-
-**Shadow Corps — Internship Program**  
-Remote internship experience involving technical and project-based work.
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-5F25CI?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/RoBOflow-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ThingSpeak-007033?style=for-the-badge&logo=thing-speak&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
 ---
 
-### 🌱 Currently Exploring
+### 🌈 My Principles
 
-- Advanced Machine Learning & Deep Learning
-- Computer Vision & YOLO
-- AI Agents & LLM Integrations
-- PCB Design & Embedded Linux
-- Edge AI & NVIDIA Jetson development
-- Robotics & Product development
-- Startup growth and operations
-- Automation using AI
-
----
-
-### 💡 Startup Ideas & Research Areas
-
-- AI-powered healthcare technology
-- Biomedical sensing systems
-- Wearable devices & assistive technology
-- AI automation for businesses
-- Electronics procurement automation
-- AI-powered component discovery
-- Computer vision applications
-- IoT-based monitoring systems
-- Smart hardware products
-- Robotics & AI agents
-- AI-powered SaaS products
+- 🧩 **Simplify everything** — If it's complex, modularize it.  
+- ⚡ **Automate smartly** — Don't just script, design workflows that think.  
+- 📚 **Learn deeply** — Understanding beats memorizing.  
+- 🏗️ **Build for longevity** — Code should scale and survive.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/faheem-1404">
-    <img src="https://github-readme-stats.vercel.app/api/top/?username=faheem-1404&count=10&theme=dark&include_all_commits=true&hide=contribs&layout=compact&card_width=650" height="160" alt="faheem-1404 top stats" />
-  </a>
-  <a href="https://github.com/faheem-1404">
-    <img src="https://github-readme-stats.vercel.app/api/?username=faheem-1404&theme=dark&hide_border=false&include_all_commits=true&count=10" height="160" alt="faheem-1404 stats" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=faheem-1404&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faheem-1404&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/faheem-1404">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheem-1404&theme=dark" height="160" alt="faheem-1404 streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem-1404&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 👾 Contribution Graph
+### 🎹 Beyond Code
+
+- 🎶 I love composing and playing **piano**
+- 🧠 Learning complex topics in **AI, computer vision, and embedded systems**
+- 🧰 Building tools to **optimize daily workflows** and hardware projects
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/faheem-1404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/faheem-1404"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://electrody.zyphra.co.in"><img src="https://img.shields.io/badge/ELECTRODY-0061A8?style=for-the-badge" /></a>
+</p>
+
+---
 
 <p align="center">
-  <a href="https://github.com/faheem-1404">
-    <img src="https://github.com/faheem-1404.png?width=480" alt="faheem-1404 contribution graph" />
-  </a>
+  <em>“Engineering isn't about making things work — it's about making them work elegantly.”</em>
 </p>
 
 ---
 
-### 📫 Social Links
-
-- **GitHub:** [@faheem-1404](https://github.com/faheem-1404)
-- **LinkedIn:** [Faheem Abdullah](https://linkedin.com/in/faheem-1404)
-- **Portfolio:** [sugeeth.dev](https://sugeeth.dev) *(personal site)*
-- **ELECTRODY:** [https://electrody.zyphra.co.in/](https://electrody.zyphra.co.in/)
-
----
-
-### 🔧 Tools & Workflows
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776ab.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979d.svg?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-FFAA00.svg?style=for-the-badge&logo=esp32&logoColor=black" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-F7DC2D.svg?style=for-the-badge&logo=nvidia&logoColor=black" />
-</p>
-
----
-
-**Build. Experiment. Fail. Learn. Ship. Repeat.**
-
-*"I'm not here just to learn technology. I'm here to build things with it."*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=00BB39&width=435&lines=Faheem+Abdullah;Engineering+AI%2CHardware%2C&Entrepreneurship)](https://git.io/typing-svg)
