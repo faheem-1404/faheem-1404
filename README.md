@@ -15,7 +15,6 @@
 
 🎓 I'm **Faheem Abdullah**, an engineering student at **VIT Chennai** (Electronics and Computer Engineering).  
 ⚙️ I'm passionate about **AI, electronics, robotics, and real-world technology** — turning ideas into products, not just building projects for the sake of learning.  
-🎹 Outside coding, I play the **piano**, read **engineering books**, and help others simplify tech.  
 🚀 I enjoy experimenting with hardware, developing AI-powered systems, building software, participating in hackathons, and exploring businesses that solve real problems.
 
 ---
